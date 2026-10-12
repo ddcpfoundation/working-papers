@@ -7,7 +7,7 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 
 | Document | Version | Date |
 |---|---|---|
-| [https://github.com/ddcpfoundation/working-papers/blob/main/DDCP_Manifesto_v20260924-4.pdf) | v20260924-4 | September 24, 2026 |
+| [DDCP Manifesto](https://github.com/ddcpfoundation/working-papers/blob/main/DDCP_Manifesto_v20260924-4.pdf) | v20260924-4 | September 24, 2026 |
 
 
 
